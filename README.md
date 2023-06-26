@@ -1,4 +1,4 @@
-# Expenses tracker (Description)
+# Chatbot (Description)
 This is a chatbot built using the **openAI API** and the interface is designed using **ReactJS**. The language model used to build the chatbot is the **text-davinci-003** from the publicly available **GPT-3.5** models.
 
 Click here for app demo: [Link](https://flourishing-madeleine-2ca7c4.netlify.app)
